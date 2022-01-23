@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "funny-bone",
+    "slug": "funny-bone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "funny-bone"
+}
